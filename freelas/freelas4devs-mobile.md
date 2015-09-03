@@ -22,3 +22,7 @@ Por exemplo:
   - Cordova
   - Java/Android
   - Object-C/Swift 1 e 2/iOS
+- Emerson Carvalho - emerson.broga@gmail.com - github.com/emersonbroga - twitter.com/emersonbroga
+  - PHP/ZF/Laravel/Wordpress
+  - Object-C/Swift/iOS
+  - Nodejs/Express/Sails
