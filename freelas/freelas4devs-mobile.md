@@ -16,3 +16,8 @@ Por exemplo:
   - Object-C/Swift/iOS
 
 # Lista oficial
+- Emerson Carvalho - emerson.broga@gmail.com - github.com/emersonbroga - twitter.com/emersonbroga
+  - PHP/ZF/Laravel/Wordpress
+  - Object-C/Swift/iOS
+  - Nodejs/Express/Sails
+  - 
