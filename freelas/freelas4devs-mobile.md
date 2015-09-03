@@ -16,3 +16,9 @@ Por exemplo:
   - Object-C/Swift/iOS
 
 # Lista oficial
+
+- Sebastião Relson - relsonto@gmail.com - github.com/relson - fb.com/sebastiaorelson - linkedin.com/in/relson
+  - Sencha Touch 1.x 2.x
+  - Cordova
+  - Java/Android
+  - Object-C/Swift 1 e 2/iOS
