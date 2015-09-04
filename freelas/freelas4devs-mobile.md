@@ -26,3 +26,6 @@ Por exemplo:
   - PHP/ZF/Laravel/Wordpress
   - Object-C/Swift/iOS
   - Nodejs/Express/Sails
+- Douglas Hennrich - douglashennrich@gmail.com - github.com/DouglasHennrich - fb.com/douglas.hennrich
+  - Appcelerator( iOS / Android )
+  - Javascript
