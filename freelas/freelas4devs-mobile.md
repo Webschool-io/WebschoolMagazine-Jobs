@@ -29,3 +29,8 @@ Por exemplo:
 - Douglas Hennrich - douglashennrich@gmail.com - github.com/DouglasHennrich - fb.com/douglas.hennrich
   - Appcelerator( iOS / Android )
   - Javascript
+
+- Mayck Xavier - mayckxavier@lab01.com.br - github.com/mayckxavier - fb.com/mayckxavier
+  - PHP/CodeIgniter
+  - Java/Android
+  - JavaScript/Parse
