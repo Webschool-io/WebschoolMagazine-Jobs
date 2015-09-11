@@ -29,3 +29,10 @@ Por exemplo:
 - Jhonata Ribeiro de Almeida - jhonata.ribeiro.ti@gmail.com - github.com/jhonataribeiro - facebook.com/jhonata.ribeiro
   - Ionic
   - Javascript / node.js / Sails.js
+- Douglas Hennrich - douglashennrich@gmail.com - github.com/DouglasHennrich - fb.com/douglas.hennrich
+  - Appcelerator( iOS / Android )
+  - Javascript
+- Mayck Xavier - mayckxavier@lab01.com.br - github.com/mayckxavier - fb.com/mayckxavier
+  - PHP/CodeIgniter
+  - Java/Android
+  - JavaScript/Parse
