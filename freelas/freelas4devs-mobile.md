@@ -26,3 +26,6 @@ Por exemplo:
   - PHP/ZF/Laravel/Wordpress
   - Object-C/Swift/iOS
   - Nodejs/Express/Sails
+- Jhonata Ribeiro de Almeida - jhonata.ribeiro.ti@gmail.com - github.com/jhonataribeiro - facebook.com/jhonata.ribeiro
+  - Ionic
+  - Javascript / node.js / Sails.js
