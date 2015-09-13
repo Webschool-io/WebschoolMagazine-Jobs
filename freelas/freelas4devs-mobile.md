@@ -17,6 +17,8 @@ Por exemplo:
 
 # Lista oficial
 
+- Filipe Alvarenga - ofilipealvarenga@gmail.com - github.com/filipealva - fb.com/filipealva - linkedin.com/in/filipealva
+  - iOS/Objective-C/Swift
 - Sebastião Relson - relsonto@gmail.com - github.com/relson - fb.com/sebastiaorelson - linkedin.com/in/relson
   - Sencha Touch 1.x 2.x
   - Cordova
