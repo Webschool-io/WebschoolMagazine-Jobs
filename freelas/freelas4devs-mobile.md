@@ -36,7 +36,7 @@ Por exemplo:
   - PHP/CodeIgniter
   - Java/Android
   - JavaScript/Parse
- - Vitor Alencar - vitor.maia.alencar@gmail.com - github.com/vitormalencar - fb.com/vitormalencar
+- Vitor Alencar - vitor.maia.alencar@gmail.com - github.com/vitormalencar - fb.com/vitormalencar
   - Ionic
   - Cordova
   - Javascript
