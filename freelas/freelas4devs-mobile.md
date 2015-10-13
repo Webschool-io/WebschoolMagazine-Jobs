@@ -43,4 +43,9 @@ Por exemplo:
   - Cordova
   - Javascript
   - Nodejs/Express/Sails
+- Vinicius Borges - vineckb@gmail.com - github.com/vineck - facebook.com/vineckb
+  - PHP/Zend/Laravel/CodeIgniter/Wordpress
+  - JS/Angular/Node/Express
+  - Ionic
+  - MongoDB/MySQL
 
